@@ -8,6 +8,12 @@ This program is an interpreter for the brainfuck esoteric programming language i
 
 Note that decrement to 0 gives 255 and increment to 255 gives 0 as the cells are wrapped.
 
+## How to use the interpreter?
+1. Download the bf.py file.
+2. Write your brainfuck program on any text editor.
+3. Open Terminal and enter the following code to run the brainfuck program:
+   
+        python <path>\bf.py <file_path>\<file_name>.bf
 
 ## User Interface
 
